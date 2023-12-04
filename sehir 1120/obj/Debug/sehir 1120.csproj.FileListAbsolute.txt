@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir 1120.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir 1120.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir_1120.Form1.resources
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir_1120.Properties.Resources.resources
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir 1120.csproj.GenerateResource.cache
+C:\Users\User\source\repos\sehir 1120\sehir 1120\obj\Debug\sehir 1120.csproj.CoreCompileInputs.cache
